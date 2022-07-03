@@ -13,6 +13,6 @@
 
 
 
- [Ссылка на страницу](https://dimitry-prog.github.io/mesto/)
+ [Ссылка на страницу](https://dimitry-prog.github.io/Halloween/)
 
 
