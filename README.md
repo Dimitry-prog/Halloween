@@ -1,5 +1,7 @@
 # Halloween
 
+mobile halloween with smooth animation
+
 ### Технологии
 
 * Javascript
